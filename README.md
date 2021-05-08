@@ -1,9 +1,9 @@
 
 # Welcome To My Github <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<a href="https://github.com/afifrden7"><img title="afifrden7" src="https://github-readme-stats.vercel.app/api?username=afifrden7&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200"></a>
-<a href="https://github.com/afifraden7"><img title="afiftden7" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifrden7&layout=compact&theme=nightowl"></a><br>
-<a href="https://github.com/afifrden7"><img title="afifrden7" src="https://komarev.com/ghpvc/?username=afifrden7&label=Views&color=blue&style=plastic"></a>
-<a href="https://github.com/afifrden7"><img title="afifrden7" src="https://img.shields.io/github/followers/afifrden7?label=follow&style=social"></a>
+<a href="https://github.com/afifraden69"><img title="afifraden69" src="https://github-readme-stats.vercel.app/api?username=afifraden69&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200"></a>
+<a href="https://github.com/afifraden69"><img title="afifraden69" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifraden69&layout=compact&theme=nightowl"></a><br>
+<a href="https://github.com/afifraden69"><img title="afifraden69" src="https://komarev.com/ghpvc/?username=afifraden69&label=Views&color=blue&style=plastic"></a>
+<a href="https://github.com/afifraden69"><img title="afifraden69" src="https://img.shields.io/github/followers/afifraden69?label=follow&style=social"></a>
 </p><br>
 
 <details>
